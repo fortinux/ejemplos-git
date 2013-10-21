@@ -31,7 +31,7 @@ usuario@usuario-portatil:~/git/ejemplos-git$ git add archivo-ejemplo.txt
 
 usuario@usuario-portatil:~/git/ejemplos-git$ git commit -m "creado el primer archivo"
 
-8. Le ponemos un número de versión a nuestro trabajo con una etiqueta (no es obligatorio pero es conveniente cuando realizamos cambios importantes). Con "git log" ubicamos y copiamos el valor del commit ID:
+8. Le ponemos un número de versión a nuestro trabajo con una etiqueta (tag). Con "git log" ubicamos y copiamos el valor del commit ID:
 
 usuario@usuario-portatil:~/git/ejemplos-git$ git log
 
