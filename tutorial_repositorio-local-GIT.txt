@@ -23,7 +23,7 @@ usuario@usuario-portatil:~/git/ejemplos-git$ git init
 usuario@usuario-portatil:~/git/ejemplos-git$ cat > archivo-ejemplo.txt
 este es un archivo de ejemplo 
 
-6. Agregamos el archivo al index de GIT:
+6. Agregamos el archivo al index de GIT (con "git add *" agregamos todos los archivos modificados a la vez):
 
 usuario@usuario-portatil:~/git/ejemplos-git$ git add archivo-ejemplo.txt
 
