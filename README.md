@@ -1,5 +1,6 @@
 ejemplos-git
 ============
 
-Aprendiendo a usar GIT
-Tutoriales básicos en idioma castellado (español) sobre GIT
+<h2>Aprendiendo a usar GIT</h2>
+<p>Tutoriales básicos en idioma castellado (español) sobre GIT</p>
+<p>Autor: Fortinux</p>
