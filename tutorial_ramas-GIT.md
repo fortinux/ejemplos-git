@@ -28,21 +28,13 @@
 
 7. Realizamos el commit escribiendo un resumen de los cambios realizados:
 
+> `usuario@usuario-portatil:~/git/ejemplos-git$ git add .`
+
+8. Realizamos el commit escribiendo un resumen de los cambios realizados:
+
 > `usuario@usuario-portatil:~/git/ejemplos-git$ git commit -m "creado una rama para hacer pruebas"`
 
-8. Le ponemos un número de versión a nuestro trabajo con una etiqueta (no es obligatorio pero es conveniente cuando realizamos cambios importantes). Con "git log" ubicamos y copiamos el valor del commit ID:
-
-> `usuario@usuario-portatil:~/git/ejemplos-git$ git log`
-
-> `creado el primer archivo`
-
-> `commit 39e373fcfb6`
-
-9. con "git tag" se lo aplicamos:
-
-> `usuario@usuario-portatil:~/git/ejemplos-git$ git tag 0.0.1 39e373fcfb6`
-
-10. Con "git status" podemos ver en que estado están nuestros archivos:
+9. Con "git status" podemos ver en que estado están nuestros archivos:
 
 > `usuario@usuario-portatil:~/git/ejemplos-git$ git status`
 
